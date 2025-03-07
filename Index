@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cake Recipes</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Cake Recipes</h1>
+  <div id="recipes-container"></div>
+
+  <script src="index.js" defer></script>
+
+</body>
+</html>
